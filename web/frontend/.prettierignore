@@ -1,0 +1,12 @@
+# Ignore artifacts:
+build
+www
+dist
+coverage
+
+# Ignore all HTML files:
+*.html
+.nuxt
+.output
+CHANGELOG.md
+
