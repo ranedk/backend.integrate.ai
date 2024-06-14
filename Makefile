@@ -1,1 +1,3 @@
-# note: call scripts from /scripts
+run:
+	go run ./src/main.go
+
